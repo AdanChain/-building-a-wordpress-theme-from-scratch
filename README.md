@@ -939,7 +939,3 @@ Can be created using a plugin or by coding it from scratch into the __functions.
 
 Copyright (c) 2017 Adrian Cole
 All Rights Reserved.
-
-## Contact
-
-[hello@jonathangrover.com](mailto:adriancole0327@gmail.com)
